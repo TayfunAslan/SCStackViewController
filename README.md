@@ -1,5 +1,7 @@
 # SCStackViewController
 
+![Version](https://img.shields.io/cocoapods/v/SCStackViewController.svg)&nbsp;![License](https://img.shields.io/cocoapods/l/SCStackViewController.svg)&nbsp;![Platform](https://img.shields.io/cocoapods/p/SCStackViewController.svg)
+
 SCStackViewController is a container view controller which allows you to stack other view controllers on the  top/left/bottom/right of the root and build custom transitions between them while providing correct physics and appearance calls.
 
 It was build with the following points in mind:
